@@ -1,3 +1,11 @@
+# -------------------------- 
+### This is a repo given for the event hosted by IEEE Computer Society VITC ,sponsored by :bitspace 
+### as part of OC and the repo owner , had to oversight the opensource contributions and merge them / accept them based on all the rules and logic of code 
+# --------------------------
+
+
+
+
 # 🧱 Minecraft Helper Bot  
 ### A PatchFest Game Automation Project (Node.js + Mineflayer)
 
